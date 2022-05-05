@@ -11,7 +11,8 @@ I have been coding a tool that allows to perform automated security analysis on 
 
 ## How to use it?
 
- Example: python3 solanasecs.py -f tests/data/example.rs
+ Example:
+ ```python3 solanasecs.py -f tests/data/example.rs```
           
           
  ## Contact me?
