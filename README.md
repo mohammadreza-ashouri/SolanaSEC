@@ -11,7 +11,7 @@ I have been coding a tool that allows to perform automated security analysis on 
           
           
  ## Contact me?
- ashourics@protonmail.com
- https://bytescan.net
+ - ashourics@protonmail.com
+-  https://bytescan.net
  
  
